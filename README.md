@@ -6,6 +6,7 @@ Regarding the name of this repository: 'Hatchling and Alligator'. Hatchling is t
 ## Motivation and What I did:
 1. Studied Prof Andrew Ng's deep learning neural network courses from Coursera since the assignment are relatively independent, and the network structure requires some hand coding for parameters caching. Therefore, Alligator is designed to automatically generate and read the parameters from different setup of the NN structure. 
 2. Alligator_v01 provided binary classifier deep learning model by gradient descent algorithm and developed the model by momentum, rmsprop, adam and mini-batch algorithms. It also provides L2 regularisation techniques to reduce overfitting leading to get a better result in the testing dataset.
+3. At the end of the model provides the comparison result and training time to help user select the most suitable model for their data.
 
 ## Future Plan:
 1. The details of how to model construct study notes will be uploaded in the future.
