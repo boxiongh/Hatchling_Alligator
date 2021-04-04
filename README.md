@@ -16,3 +16,6 @@ Regarding the name of this repository: 'Hatchling and Alligator'. Hatchling is t
 
 ## Disclaimer:
 This repository only available and sharing for the purpose of the study. Some of the parts of the codes are sorting from Prof. Andrew Ng's deep learning courses on Coursera; hence, please also follow the restriction rules from the courses.
+
+## Further:
+If you enjoy the Alligator model and hatchling library, please don't hesitate to star and share this repository with your friend. 
